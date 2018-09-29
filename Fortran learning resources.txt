@@ -1,0 +1,6 @@
+There are many different sources and online courses to learn C++ and Python (for scientific computing). 
+However, it seems to me that Fortran is the code which is widely used in scientific codes, and standard resource to 
+lean Fortran is less. 
+
+Here, I list a number of useful Fortran resources which I am using to learn Fortran coding.
+
