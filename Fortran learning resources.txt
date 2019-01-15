@@ -4,3 +4,8 @@ lean Fortran is less.
 
 Here, I list a number of useful Fortran resources which I am using to learn Fortran coding.
 
+Here is the link for pages, articles, websites, books, etc.
+
+
+Programming in Fortran95 ( a self study guide) 
+Availabel at: https://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf
