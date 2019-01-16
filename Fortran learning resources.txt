@@ -7,5 +7,9 @@ Here, I list a number of useful Fortran resources which I am using to learn Fort
 Here is the link for pages, articles, websites, books, etc.
 
 
-Programming in Fortran95 ( a self study guide) 
-Availabel at: https://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf
+Programming in Fortran95 (a self study guide, freely downloadable) 
+Available at: https://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf
+
+MPI FORTRAN90 Examples (Getting started with MPI in C/C++/Fortran)
+Available at: https://people.sc.fsu.edu/~jburkardt/f_src/mpi/mpi.html
+
